@@ -8,3 +8,4 @@ Case for RaspBerry Pi with 7 inch display
 
 Case for temperature sensor
 ![esp32-sensor-model](https://user-images.githubusercontent.com/20232235/206864655-78dec25d-eefe-43fe-acf7-d5192d47e8b7.jpg)
+![esp32-sensor-case-2-panels](https://user-images.githubusercontent.com/20232235/209726459-5bbf0d78-111f-4593-8d0b-0cea0b9a2715.jpg)
